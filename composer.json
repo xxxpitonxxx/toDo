@@ -1,0 +1,18 @@
+{
+    "name": "red/todoapp.com",
+    "description": "simple RESTfull todoApi",
+    "type": "project",
+    "require": {
+        "steampixel/simple-php-router": "^0.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Red\\TodoappCom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "redgroul"
+        }
+    ]
+}
